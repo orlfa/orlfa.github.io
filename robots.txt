@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orlfa.github.io/ejY/sitemap.ejY.gz
